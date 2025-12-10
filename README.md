@@ -167,7 +167,7 @@ services:
 Any `.sql` file inside the `sql/` folder will automatically run during container startup.
 
 ## 5. Time Spent
-Approximately **2.5 hours**, including:
+Approximately **1.5 hours**, including:
 - reading/understanding the original query  
 - identifying bottlenecks  
 - drafting the improved logic  
